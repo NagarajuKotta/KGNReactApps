@@ -1,2 +1,0 @@
-# KGNReactApps
-Created with CodeSandbox
